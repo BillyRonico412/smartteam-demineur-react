@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smartteam-demineur-react%20/static/css/main.d24163a2.css",
+    "main.js": "/smartteam-demineur-react%20/static/js/main.fe5d1775.js",
+    "index.html": "/smartteam-demineur-react%20/index.html",
+    "main.d24163a2.css.map": "/smartteam-demineur-react%20/static/css/main.d24163a2.css.map",
+    "main.fe5d1775.js.map": "/smartteam-demineur-react%20/static/js/main.fe5d1775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24163a2.css",
+    "static/js/main.fe5d1775.js"
+  ]
+}
