@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/smartteam-demineur-react%20/static/css/main.d24163a2.css",
-    "main.js": "/smartteam-demineur-react%20/static/js/main.16f9de65.js",
-    "index.html": "/smartteam-demineur-react%20/index.html",
-    "main.d24163a2.css.map": "/smartteam-demineur-react%20/static/css/main.d24163a2.css.map",
-    "main.16f9de65.js.map": "/smartteam-demineur-react%20/static/js/main.16f9de65.js.map"
+    "main.css": "/smartteam-demineur-react/static/css/main.d24163a2.css",
+    "main.js": "/smartteam-demineur-react/static/js/main.16f9de65.js",
+    "index.html": "/smartteam-demineur-react/index.html",
+    "main.d24163a2.css.map": "/smartteam-demineur-react/static/css/main.d24163a2.css.map",
+    "main.16f9de65.js.map": "/smartteam-demineur-react/static/js/main.16f9de65.js.map"
   },
   "entrypoints": [
     "static/css/main.d24163a2.css",
